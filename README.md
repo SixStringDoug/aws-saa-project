@@ -30,6 +30,8 @@ aws-saa-project/
 - Use least-privilege IAM policies (group-based permissions)
 - Log in with IAM user, **never root**, except for account-level tasks
 - Enable MFA on the root user and IAM user accounts (recommended)
+- Enable **IAM Billing Access** for IAM users via root account
+  (to allow non-root users to view billing and cost data)
 
 ## 🧩 Current Week
 **Week 1 (Chunk 1):** GitHub setup, IAM user, app architecture plan, initial CRUD scaffold.
