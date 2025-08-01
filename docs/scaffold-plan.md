@@ -31,7 +31,7 @@ This document outlines the initial scaffold plan for the Task Tracker backend ap
 - Basic unit tests with JUnit
 
 ## Notes
-- Frontend is optional and planned for Chunk 7
+- Frontend is optional and planned for Phase 7
 - Focus is on backend and AWS integration for now
 
 ## Next Steps

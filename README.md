@@ -34,5 +34,5 @@ aws-saa-project/
   (to allow non-root users to view billing and cost data)
 
 ## 🧩 Current Week
-**Week 1 (Chunk 1):** GitHub setup, IAM user, app architecture plan, initial CRUD scaffold.
+**Week 1 (Phase 1):** GitHub setup, IAM user, app architecture plan, initial CRUD scaffold.
 
