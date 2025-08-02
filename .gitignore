@@ -1,0 +1,43 @@
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Maven folders
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/
+mvnw
+mvnw.cmd
+
+# Gradle (if you ever use it)
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# Environment files (if any)
+.env
+
+# Postman (optional)
+*.postman_environment.json
+
+# Node modules (optional if you add frontend later)
+node_modules/
