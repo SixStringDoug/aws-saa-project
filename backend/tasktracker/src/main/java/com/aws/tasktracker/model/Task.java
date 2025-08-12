@@ -16,6 +16,8 @@ public class Task {
 
     private String description;
 
+    private String attachmentUrl;
+
     private boolean completed = false;
 
     // Getters and setters
@@ -27,6 +29,9 @@ public class Task {
 
     public String getDescription() { return description; }
     public void setDescription(String description) { this.description = description; }
+
+    public String getAttachmentUrl() {return attachmentUrl;}
+    public void setAttachmentUrl(String attachmentUrl) {this.attachmentUrl = attachmentUrl;}
 
     public boolean isCompleted() { return completed; }
     public void setCompleted(boolean completed) { this.completed = completed; }
